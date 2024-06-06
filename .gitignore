@@ -1,0 +1,23 @@
+# Ignore everything
+*
+
+# Except C# files
+!*.cs
+
+# Except Unity meta files
+!*.meta
+
+# Ignore all other files and directories
+.*/*
+!.*/**
+
+# Ignore other common files and directories
+*.log
+*.cache
+*.temp
+*.bak
+*.swp
+*.DS_Store
+*.userprefs
+*.sln
+*.csproj
